@@ -27,8 +27,10 @@ _**Emerging Technologies**_:
 
 ### 🥇Certifications
 
-[Software Engineer Certification](https://www.hackerrank.com/certificates/6de18572227e)
+[Software Engineer](https://www.hackerrank.com/certificates/6de18572227e)
 
-[Javascript (Intermediate) Certification](https://www.hackerrank.com/certificates/2968e339cdce)
+[Javascript (Intermediate)](https://www.hackerrank.com/certificates/2968e339cdce)
 
-[RestAPI (Intermediate) Certification](https://www.hackerrank.com/certificates/dfc9361d9f2f)
+[RestAPI (Intermediate)](https://www.hackerrank.com/certificates/dfc9361d9f2f)
+
+[Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/fdba5f5ecc17)
