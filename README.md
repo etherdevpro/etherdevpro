@@ -2,9 +2,7 @@
 
 Full Stack Developer with 10+ years of experience building scalable web applications using JavaScript, React, Node.js, and Express, and databases like MongoDB and SQL. Proven track record of leading projects that deliver high-quality, performant, and user-friendly applications in fast-paced, agile environments. Adept at integrating cutting-edge technologies like blockchain and AI, and collaborating with cross-functional teams to achieve business goals.
 
-
-### Technical Skills
-
+### 🔥Technical Skills
 _**Front-End**_:
 - HTML5, CSS3, JavaScript, React, Next.js, Vue.js
 - Responsive design, Bootstrap, TailwindCSS
@@ -27,14 +25,7 @@ _**Emerging Technologies**_:
 - Blockchain Technology (Ethereum, Solidity, Hyperledger)
 - Artificial Intelligence (TensorFlow, Keras, PyTorch)
 
----
-
-
 <!--
-**etherdevpro/etherdevpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
