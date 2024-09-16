@@ -26,5 +26,11 @@ _**Emerging Technologies**_:
 - Artificial Intelligence (TensorFlow, Keras, PyTorch)
 
 ### 🥇Certifications
-[Software Engineer Certification](https://www.hackerrank.com/certificates/6de18572227e)
-[Javascript (Intermediate) Certification](https://www.hackerrank.com/certificates/2968e339cdce)
+
+[Software Engineer](https://www.hackerrank.com/certificates/6de18572227e)
+
+[Javascript (Intermediate)](https://www.hackerrank.com/certificates/2968e339cdce)
+
+[RestAPI (Intermediate)](https://www.hackerrank.com/certificates/dfc9361d9f2f)
+
+[Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/fdba5f5ecc17)
