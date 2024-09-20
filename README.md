@@ -4,16 +4,11 @@ Full Stack Developer with 10+ years of experience building scalable web applicat
 
 ### Technical Skills:
 
-| Front-End | Back-End | Mobile |
-| :---- | :---- | :---- |
-| HTML5, CSS3, JavaScript, React, Next.js, Vue.js | Node.js, Express.js, PHP & Laravel, Python & Django  | Swift, Objective-C, Kotlin, Java |
-| Responsive design, Bootstrap, TailwindCSS       | RESTful APIs, GraphQL, OAuth | iOS & Android architecture, Cross-platform (React Native) |
-| Version Control: Git, GitHub                    | MySQL, MongoDB, PostgreSQL | SQLite, Realm, Firebase, Core Data, MySQL |
-
-
-| Cloud Platforms | DevOps |
-| :---- | :---- | 
-| AWS, Google Cloud, Azure | CI/CD, Docker, Kubernetes |
+| Front-End | Back-End | Mobile | Cloud Platforms | DevOps |
+| :---- | :---- | :---- | :---- | :---- | 
+| HTML5, CSS3, JavaScript, React, Next.js, Vue.js | Node.js, Express.js, PHP & Laravel, Python & Django  | Swift, Objective-C, Kotlin, Java | AWS | CI/CD |
+| Responsive design, Bootstrap, TailwindCSS       | RESTful APIs, GraphQL, OAuth | iOS & Android architecture, Cross-platform (React Native) | Google Cloud | Docker |
+| Version Control: Git, GitHub                    | MySQL, MongoDB, PostgreSQL | SQLite, Realm, Firebase, Core Data, MySQL | Azure | Kubernetes |
   
 ### Emerging Technologies:
 
@@ -25,6 +20,8 @@ Full Stack Developer with 10+ years of experience building scalable web applicat
 ### 🥇Certifications
 
 [Software Engineer](https://www.hackerrank.com/certificates/6de18572227e)
+
+[SQL (Advanced)](https://www.hackerrank.com/certificates/b3f752e395c9)
 
 [Javascript (Intermediate)](https://www.hackerrank.com/certificates/2968e339cdce)
 
